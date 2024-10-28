@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Sarika Babar
 
 <!--
 **sbabar95/sbabar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-### Hi there! 👋 I'm Sarika Babar
-
 I'm a dedicated **Software Engineer** with over 5 years of experience in **C++ development** and a passion for building efficient, reliable, and optimized software solutions. My work spans across **software development, debugging, and performance optimization**, especially for complex projects in healthcare technology, like MRI software for Canon Medical Systems Corporation.
 
 I have a strong foundation in **C/C++**, **SQL**, and **data structures**, along with hands-on expertise in **fault-tolerant systems** and **static code analysis** using tools like **Coverity**. Whether working on a new feature or troubleshooting challenging issues, I enjoy tackling complex problems and delivering high-quality, maintainable code.
