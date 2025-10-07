@@ -1,4 +1,3 @@
-## Hi there 👋 I'm Sarika (Mohite) Babar 
 <!--
 **sbabar95/sbabar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Sarika Babar  
+# 👋 Hi there 👋 I'm Sarika (Mohite) Babar  
 
 🎯 **C++ Developer | System Programmer**  
 💡 Passionate about building high-performance, reliable software and driving automation that bridges development and operations.
